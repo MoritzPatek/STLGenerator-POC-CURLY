@@ -1,0 +1,22 @@
+prompts = [
+    "Generate a cube that measures {x}cm by {y}cm by {z}cm.",
+    "I need a cube with the dimensions {x}cm x {y}cm x {z}cm.",
+    "Construct a 3D cube of {x}cm width, {y}cm height, and {z}cm depth.",
+    "Fabricate a cube where each side is {x}cm, {y}cm, and {z}cm respectively.",
+    "Design a cubic shape with {x}cm, {y}cm, and {z}cm as its dimensions.",
+    "Please create a rectangular prism with sides of {x}cm, {y}cm, and {z}cm.",
+    "Form a cube with a width of {x}cm, height of {y}cm, and depth of {z}cm.",
+    "Develop a cube whose measurements are {x}cm in width, {y}cm in height, and {z}cm in depth.",
+    "Can you produce a cube that's {x}cm by {y}cm by {z}cm?",
+    "I'd like a 3D model of a cube with sides measuring {x}cm, {y}cm, and {z}cm.",
+    "Create a geometric cube with dimensions of {x}cm x {y}cm x {z}cm.",
+    "Build a cube having dimensions {x}cm in width, {y}cm in height, and {z}cm in depth.",
+    "Assemble a cube with the following sizes: {x}cm, {y}cm, and {z}cm.",
+    "Conjure a cube that has a width of {x}cm, a height of {y}cm, and a depth of {z}cm.",
+    "I want a cube crafted with dimensions of {x}cm by {y}cm by {z}cm.",
+    "Make a cube with the specified dimensions of {x}cm x {y}cm x {z}cm.",
+    "Envision a cube structured with dimensions {x}cm, {y}cm, and {z}cm.",
+    "Draw up a cube that's {x}cm wide, {y}cm tall, and {z}cm deep.",
+    "Outline a cube with the measurements {x}cm for width, {y}cm for height, and {z}cm for depth.",
+    "Scheme a cube having the sides of {x}cm, {y}cm, and {z}cm in length."
+]
