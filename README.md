@@ -31,13 +31,6 @@ pip install tensorflow transformers pandas numpy
 ```
 
 ### Usage
-1. Prepare your dataset in the format of `cube_id, prompt, width, height, depth, tokens` and save it as a CSV file.
+1. Prepare your dataset in the format of `cube_id, prompt, width, height, depth, tokens` and save it as a CSV file. Or use the `cube_stl_generator.py` to generate the dataset.
 2. Use the provided script to train the model with your dataset. Adjust the `path_to_csv` variable to point to your dataset file.
-3. After training, use the model to predict cube dimensions by providing new textual prompts.
-
-Example:
-```
-new_prompt = "Create a cube with dimensions of 10cm x 20cm x 30cm."
-predicted_dimensions = predict_dimensions(new_prompt)
-print(f"Predicted dimensions: {predicted_dimensions}")
-```
+3. After training, use the model to predict cube dimensions by providing new textual prompts. Look into `prompts.py` for the prompts I used. Works best for now - this is a one day project, dont expect too much.
