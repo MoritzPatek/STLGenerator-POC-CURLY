@@ -21,7 +21,7 @@ This project harnesses the power of a dynamic Recurrent Neural Network (RNN) to 
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/MoritzPatek/STLGenerator-POC-CURLY
 ```
 
 2. Install required Python packages:
